@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77645575-2254-40c9-93eb-e693cd4beb17" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bolditalic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bolditalic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bolditalic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-bolditalic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-extrabold-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-extrabold-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-extrabold-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-extrabold-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-italic-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-italic-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-italic-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-italic-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-regular-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-regular-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-regular-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts/opensans-regular-webfont.woff" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profilepic.jpg" afterPath="$PROJECT_DIR$/img/profilepic.jpg" />
     </list>
     <ignored path="Critical_rendering_path.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
